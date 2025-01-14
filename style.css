@@ -1,0 +1,49 @@
+/* 全局样式 */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+    text-align: center;
+}
+
+/* 标题样式 */
+header {
+    background: #007BFF;
+    color: white;
+    padding: 1em 0;
+}
+
+/* 主内容样式 */
+main {
+    margin: 2em auto;
+    padding: 1em;
+    max-width: 600px;
+    background: white;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* 按钮样式 */
+button {
+    background: #007BFF;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 1em;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+button:hover {
+    background: #0056b3;
+}
+
+/* 页脚样式 */
+footer {
+    margin-top: 2em;
+    padding: 1em 0;
+    background: #333;
+    color: white;
+}
